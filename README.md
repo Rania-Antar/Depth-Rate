@@ -18,4 +18,5 @@ c) What other metrics can we calculate from this database :
 *)Conversion Rate: Calculate the percentage of users who completed a specific action or conversion goal.
 
 *)Event Type Distribution: Analyze the distribution of scroll events vs. duration events over time.
+
 *)User Behavior Segmentation: Segment users based on their event interactions and analyze their behavior separately.
